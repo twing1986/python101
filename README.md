@@ -1,5 +1,6 @@
 Szkolenia Python 101
 ====================
+Start 9/13/2019
 
 Niniejsze materiały to dokumentacja i kody źródłowe do szkoleń z
 języka Python realizowanych w ramach projektu [Koduj z Klasą][1]
